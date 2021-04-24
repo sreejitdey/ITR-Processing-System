@@ -1,0 +1,76 @@
+body
+{
+    background-color: #FFE8C0;
+    border: 20px solid #FF8B00;
+}
+.heading
+{
+    background-color: #FF8B00;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+.message
+{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+}
+.container
+{
+	width: 60%;
+	margin: 0 auto;
+	padding-top: 20px;
+    padding-bottom: 80px;
+	background-color: #FFE8C0;
+}
+table
+{
+    margin: 0 auto;
+	width: 80%;
+	background-color: #A00098;
+	text-align: left;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+th, td
+{
+	border: 1px solid white;
+	border-collapse: collapse;
+	padding: 5px;
+}
+ul
+{
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 80px;
+}
+.continuebtn
+{
+	background-color: #FF8B00;
+	color: white;
+	padding: 10px;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+	width: 10%;
+	font-size: 15px;
+    float: right;
+    margin-right: 20px;
+}
+.logoutbtn
+{
+	background-color: #FF8B00;
+	color: white;
+	padding: 10px;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+	width: 10%;
+	font-size: 15px;
+    float: right;
+    margin-right: 20px;
+}

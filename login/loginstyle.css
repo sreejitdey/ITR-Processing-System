@@ -1,0 +1,57 @@
+body
+{
+	background-color: #C0FFB4;
+	border: 20px solid #0F6300;
+}
+.heading
+{
+	background-color: #0F6300;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+h1
+{
+	color: #0F6300;
+}
+.container
+{
+	width: 40%;
+	margin: 0 auto;
+	padding-top: 20px;
+	background-color: #C0FFB4;
+}
+label
+{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-weight: bold;
+	font-size: 25px;
+	display: inline-block;
+}
+input, select
+{
+	width: 100%;
+	padding: 10px;
+	display: inline-block;
+	border: none;
+	border-radius: 25px;
+	font-size: 20px;
+	box-sizing: border-box;
+}
+hr
+{
+	margin-bottom: 25px;
+}
+.loginbtn
+{
+	background-color: #1FC700;
+	color: white;
+	padding: 10px;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+	width: 20%;
+	font-size: 15px;
+}

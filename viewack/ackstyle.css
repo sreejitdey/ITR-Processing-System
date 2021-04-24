@@ -1,0 +1,56 @@
+body
+{
+    color: darkblue;
+    -webkit-print-color-adjust: exact;
+}
+h1
+{
+    text-align: center;
+}
+.bgi
+{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-image: url("../images/img1.png");
+    background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.container
+{
+	margin-left: 25%;
+    margin-right: 25%;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+table
+{
+    margin: 0 auto;
+	width: 100%;
+	text-align: left;
+	font-size: 20px;
+}
+.col1
+{
+    width: 40%;
+}
+.col2
+{
+    width: 45%;
+}
+table, th, td
+{
+    background-color: #FBFBFF;
+	border: 2px solid darkblue;
+	border-collapse: collapse;
+	padding: 10px;
+}
+.logoutbtn
+{
+    margin-right: 25%;
+    float: right;
+}
+.downloadbtn
+{
+    margin-right: 20px;
+    float: right;
+}

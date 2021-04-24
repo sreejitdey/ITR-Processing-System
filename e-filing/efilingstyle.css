@@ -1,0 +1,97 @@
+body
+{
+	border: 20px solid black;
+}
+.heading
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+.container
+{
+	margin: 0 auto;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+table
+{
+    margin: 0 auto;
+	width: 90%;
+	text-align: left;
+	color: white;
+	font-size: 25px;
+}
+table, th, td
+{
+	border: 2px solid white;
+	border-collapse: collapse;
+	padding: 15px;
+}
+.indexcol
+{
+	width: 50px;
+}
+.labelcol
+{
+	width: 60%
+}
+.inputcol
+{
+	text-align: right;
+}
+.mainrow
+{
+	background-color: #404040;
+}
+.subrow1
+{
+	background-color: #606060;
+}
+.subrow2
+{
+	background-color: #808080;
+}
+.resultrow
+{
+	background-color: black;
+}
+input
+{
+	text-align: right;
+	width: 70%;
+	padding: 10px;
+	display: inline-block;
+	border: none;
+	border-radius: 20px;
+	font-size: 15px;
+	box-sizing: border-box;
+}
+.submitbtn
+{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+	width: 10%;
+	font-size: 15px;
+    float: right;
+    margin-right: 80px;
+}
+.logoutbtn
+{
+	background-color: black;
+	color: white;
+	padding: 10px;
+	border: none;
+	border-radius: 25px;
+	cursor: pointer;
+	width: 10%;
+	font-size: 15px;
+    float: right;
+    margin-right: 80px;
+}
